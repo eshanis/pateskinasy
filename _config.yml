@@ -20,7 +20,7 @@ title: ESTech
 title_separator: "-"
 subtitle: ESTech # site tagline that appears below site title in masthead
 name: "Eshani Shah"
-description: "A few of my favourite things.Cooking|Kids|Tech|Travel|Teaching|Architecture"
+description: "A few of my favourite Tech hobbies.HTML|Javascript|AWS|Blogs|Websites|Hosting| Jekyll| Github"
 url: https://blog.eshani.ml
 #url: https://www.eskinasy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: /pateskinasy # the subpath of your site, e.g. "/blog"
