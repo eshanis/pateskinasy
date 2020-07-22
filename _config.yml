@@ -16,7 +16,7 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale: "en-US"
-title: "Eskinasy Notes | Pat Eskinasy Writings"
+title: "Eshani's Tech Blog | Writings"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Pat Eskinasy"
@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Pat Eskinasy"
-  avatar: "https://ik.imagekit.io/214u6evjbiyb9/image1__1__HJ1gMcnXV.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Now: Own projects, Past: B2B deep tech. | Engineer | Economist | 🌱| ॐ"
-  location: " :gb:  :sweden:  :brazil: "
+  name: "Eshani Shah"
+  avatar: "/assets/images/eshu.jpg"
+  bio: "Now: Tech Enthusiast, Past: Teacher | Architect |  ॐ"
+  location: " :: us :china:  :inda: "
   email:
   links:
     - label: "Email"
@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pateskinasy"
+      url: "https://github.com/eshanis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -157,7 +157,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pateskinasy"
+      url: "https://github.com/eshanis"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
