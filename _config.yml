@@ -67,21 +67,21 @@ reCaptcha:
 atom_feed:
   path: # blank (default) uses feed.xml
 search: true #false (default)
-search_full_content: true #false (default)
-search_provider: algolia # lunr (default), algolia, google
-algolia:
-  application_id: OBNLJ1YKNJ # YOUR_APPLICATION_ID
-  index_name: blog # YOUR_INDEX_NAME
-  search_only_api_key: 22b7cff334143c6a193da680cf1c8f7c # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
-google:
-  search_engine_id: # YOUR_SEARCH_ENGINE_ID
-  instant_search: # false (default), true
+#search_full_content: true #false (default)
+#search_provider: algolia # lunr (default), algolia, google
+#algolia:
+#  application_id: OBNLJ1YKNJ # YOUR_APPLICATION_ID
+#  index_name: blog # YOUR_INDEX_NAME
+#  search_only_api_key: 22b7cff334143c6a193da680cf1c8f7c # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by: # true (default), false
+#google:
+#  search_engine_id: # YOUR_SEARCH_ENGINE_ID
+#  instant_search: # false (default), true
 # SEO Related
-google_site_verification: jx8Y8WqtwyrW_sAdLoC96jZBbNdhIaJr6rQuv4mBJQ8
-bing_site_verification:
-yandex_site_verification:
-naver_site_verification:
+#google_site_verification: jx8Y8WqtwyrW_sAdLoC96jZBbNdhIaJr6rQuv4mBJQ8
+#bing_site_verification:
+#yandex_site_verification:
+#naver_site_verification:
 
 # Social Sharing
 twitter:
