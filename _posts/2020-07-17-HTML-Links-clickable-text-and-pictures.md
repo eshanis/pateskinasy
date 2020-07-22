@@ -2,6 +2,8 @@
 published: true
 Published: true
 thumbnail: /assets/images/bio-photo.jpg
+title: Learn about links
+excerpt: Clickable images text
 ---
 
 ### Sometimes you want to put links to others people's pages or pages within your own website.
