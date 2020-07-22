@@ -143,9 +143,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pateskinasy/"
-    - label: "Newsletter"
-      icon: "far fa-newspaper"
-      url: "https://upscri.be/611534/"
+ #   - label: "Newsletter"
+ #     icon: "far fa-newspaper"
+ #     url: "https://upscri.be/611534/"
 
 # Site Footer
 footer:
@@ -174,9 +174,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pateskinasy/"
-    - label: "Newsletter"
-      icon: "far fa-newspaper"
-      url: "https://upscri.be/611534/"
+  #  - label: "Newsletter"
+  #    icon: "far fa-newspaper"
+  #    url: "https://upscri.be/611534/"
 
 # Reading Files
 include:
