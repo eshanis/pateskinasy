@@ -6,6 +6,7 @@ excerpt: Hyperlinked images text
 header:
   teaser: /assets/images/estech.png
   image: /assets/images/estech.png
+  overlay_image: /assets/images/estech.png
 
 ---
 
