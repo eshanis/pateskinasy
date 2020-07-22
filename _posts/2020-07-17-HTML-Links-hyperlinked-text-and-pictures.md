@@ -1,9 +1,11 @@
 ---
 published: true
 Published: true
-thumbnail: /assets/images/bio-photo.jpg
+thumbnail: /pateskinasy/assets/images/estech.png
 title: Learn about links
 excerpt: Hyperlinked images text
+header:
+  teaser: /pateskinasy/assets/images/estech.png
 ---
 
 ## Sometimes you want to put links to others people's pages or pages within your own website.
