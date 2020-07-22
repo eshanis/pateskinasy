@@ -3,6 +3,7 @@ published: true
 Published: true
 thumbnail: /assets/images/bio-photo.jpg
 ---
+
 Sometimes you want to put links to others people's pages or pages within your own website.
 
 For this, you use the "a" tags
@@ -179,4 +180,4 @@ Back to top: <a href="#top">Back to Top</a>
     <hr>
    </body>
    
- For detailed example [click here](https://github.com/eshanis/fullstack-course4/blob/master/examples/Lecture09/links-same-page.html)  
+ For detailed example [click here](https://github.com/eshanis/fullstack-course4/blob/master/examples/Lecture09/links-same-page.html)
