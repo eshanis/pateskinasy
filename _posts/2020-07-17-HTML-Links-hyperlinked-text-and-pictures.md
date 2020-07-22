@@ -1,6 +1,5 @@
 ---
 published: true
-Published: true
 thumbnail: /assets/images/estech.png
 title: Learn about links
 excerpt: Hyperlinked images text
