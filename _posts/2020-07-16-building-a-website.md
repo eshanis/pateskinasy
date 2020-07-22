@@ -2,9 +2,10 @@
 published: true
 publish: true
 thumbnail: /assets/images/bio-photo.jpg
-excerpt: Hyperlinked images text
+excerpt: 'There are many ways to build a website, so many choices'
 title: Building a web site
 ---
+
 There are various ways to build a website. It seemed very daunting to me and I didn't know where to begin so I started exploring different ways to see what worked for me.  I am still learning and exploring. A few ways to build a website are listed below.
 
 1. I used the Jekyll framework because it gives me the option to directly host the website on the github pages. I used the jekyll now and template from [eshnil2000](https://github.com/eshnil2000/mm-github-pages-starter), which makes it easier to show pictures in the list of posts. More details can be found [here.](https://blog.eshani.ml/github-website/).
