@@ -6,7 +6,7 @@ title: Learn about links
 excerpt: Hyperlinked images text
 ---
 
-Sometimes you want to put links to others people's pages or pages within your own website.
+## Sometimes you want to put links to others people's pages or pages within your own website.
 For this, you use the "a" tags
 
 **1. If you want to link to my github page**
