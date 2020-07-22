@@ -4,7 +4,7 @@ thumbnail: /assets/images/estech.png
 title: Learn about links
 excerpt: Hyperlinked images text
 header:
-  teaser: /assets/images/bio-photo.png
+  teaser: /assets/images/bio-photo.jpg
   image: /assets/images/estech.png
   overlay_image: /assets/images/estech.png
 
