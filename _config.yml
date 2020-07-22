@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 title: ESTech
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
-name: "Pat Eskinasy"
-description: "A few of my favourite things. Decentralized, Distributed and Federated systems | Open Source Software | Digital Privacy | Artificial Intelligence | Product Development | Software Development | Cryptocurrency | Data Science | Product Management | InfoSec | Leadership | Decentralized Governance | Supply Chains | Ethical Design | Economics | Economic Empowerment | Plant-Based Lifestyle | Yoga | Woodlands | Trees | Jogging | Venture Capital | Capital Markets | Startups | Mandarin."
+subtitle: ESTech # site tagline that appears below site title in masthead
+name: "Eshani Shah"
+description: "A few of my favourite things.Cooking|Kids|Tech|Travel|Teaching|Architecture"
 url: https://blog.eshani.ml/pateskinasy
 #url: https://www.eskinasy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: /pateskinasy # the subpath of your site, e.g. "/blog"
