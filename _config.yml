@@ -24,7 +24,7 @@ description: "A few of my favourite Tech hobbies.HTML|Javascript|AWS|Blogs|Websi
 url: https://blog.eshani.ml
 #url: https://www.eskinasy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: /pateskinasy # the subpath of your site, e.g. "/blog"
-repository:  eshanis/pateskinasy# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository:  eshanis/pateskinasy # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: /assets/images/eshu.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: /pateskinasy/assets/images/estech.png
 #logo: /assets/images/eshu.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
