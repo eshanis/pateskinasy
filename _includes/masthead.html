@@ -5,7 +5,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-        <a class="site-logo" href="{{ '/' | relative_url }}"><img src="/pateskinasy/assets/images/estech.png" alt=""
+        <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ site.logo }}" alt=""
             style="max-height:40px; width:auto;"></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
