@@ -5,6 +5,8 @@ title: Learn about links
 excerpt: Hyperlinked images text
 header:
   teaser: /assets/images/estech.png
+  image: /assets/images/estech.png
+
 ---
 
 ## Sometimes you want to put links to others people's pages or pages within your own website.
