@@ -316,3 +316,4 @@ defaults:
       type: pages
     values:
       tagby: true
+      newsletter: true
