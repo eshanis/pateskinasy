@@ -106,10 +106,11 @@ social:
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "custom"
+  provider: google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: UA-121086418-1
+    tracking_id: UA-72566012-3
     anonymize_ip: # true, false (default)
+
 
 # Site Author
 author:
