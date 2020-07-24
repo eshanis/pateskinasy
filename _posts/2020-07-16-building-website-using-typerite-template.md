@@ -36,6 +36,7 @@ When uploading to 000webhost, make sure to unzip the files.
 
 ![upload_files_000webhost]({{site.baseurl}}/assets/images/typerite_upload_file_webhost.PNG)
 
+<p class= "notice--danger">
 The files need to be uploaded in the public.html folder
-
+</p>
 ![upload_unzip_public_html]({{site.baseurl}}/assets/images/typerite_upload_public_html.PNG)
