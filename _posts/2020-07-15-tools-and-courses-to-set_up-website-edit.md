@@ -34,8 +34,10 @@ There are many webserver options. The ones I explored and used were aws, github 
     NOTE: One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
 
-<div>
-**c.**  **000webhost** is where I created my main website I used [000webhost](https://www.000webhost.com/) because
+
+**c.**  **000webhost** 
+<div>  
+ To create my main website I used [000webhost](https://www.000webhost.com/) because
          they have a free account for a basic website. I also linked my 000webhost domain to my eshanis.ml domain
          using cname on **freenom**
 </div>
