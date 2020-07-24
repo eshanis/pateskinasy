@@ -14,7 +14,8 @@ There are many webserver options. The ones I explored and used were aws, github 
         This involved many steps and I had to pay for this service after my free account for a year was used up.
         For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
 </div>    
-
+<br>
+<br>
 **b.**  **Github** 
 <div>
         This is another webhosting option I explored because it did not require me to write complicated code.
