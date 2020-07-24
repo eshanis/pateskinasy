@@ -13,12 +13,13 @@ There are many webserver options. The ones I used were aws, github and 000webhos
         This involved many steps and I had to pay for this service after my free account for a year was used up.
         For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
     
-
+<div>
 **b.**  **Github** is another webhosting option I explored because it did not require me to write complicated code.
         I created the [github pages](https://blog.eshani.ml/) website as my tech blog on Github pages. You can find
         the code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to
         set up [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom]
         (https://my.freenom.com/clientarea.php?action=domains) 
+</div>
 
 ![]({{site.baseurl}}/assets/images/freenom_domain.PNG)
          and linked it to my github pages webaddress which is [https://eshanis.github.io](https://eshanis.github.io)
@@ -30,12 +31,11 @@ There are many webserver options. The ones I used were aws, github and 000webhos
     NOTE: One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
 
-
-
-
+<div>
 **c.**  **000webhost** is where I created my main website I used [000webhost](https://www.000webhost.com/) because
          they have a free account for a basic website. I also linked my 000webhost domain to my eshanis.ml domain
          using cname on **freenom**
+</div>
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG) 
 
@@ -43,9 +43,10 @@ There are many webserver options. The ones I used were aws, github and 000webhos
 ![]({{site.baseurl}}/assets/images/000webhost_domain.PNG)
 
 
-
+<br><br>
 **CHEAT SHEET**
-
+<br>
+<hr>
 1. Webserver options : aws, github, 000webserver
 
 2. Domain name registration: freenom.com
