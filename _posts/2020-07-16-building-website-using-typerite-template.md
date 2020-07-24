@@ -11,9 +11,9 @@ When I started, I was so overwhelmed with all the options out there and trying t
 I downloaded the files from [typerite](https://www.styleshout.com/free-templates/typerite/) onto my computer as a zipped folder. See image below for the files included in the zipped folder.
 <br>
 ![download as zipped files]({{site.baseurl}}/assets/images/typerite_downloaded_files_typerite_mycomp.PNG)
-<div>
+
 **Step 2.** 
-</div>  
+ 
 I used [Brackets](http://brackets.io/) to edit the files. When you open the files using Brackets, you need to unzip the folder. I used Brackets for couple of different reasons
 <div>
 -it gives me a live preview of the changes I make right next to the editor. To got to live preview, click on the drop down menu for file and select "live preview". 
@@ -23,13 +23,13 @@ I used [Brackets](http://brackets.io/) to edit the files. When you open the file
 -it lets me edit CSS files in the Index folder using the quck edit option when you right click on the down arrow.
 </div>
 ![quick edit]({{site.baseurl}}/assets/images/typerite_quickedit.PNG)
-<div>
+
 **Step 3.** 
-</div>  
+
 I used freenom to register my domain name. For details click [here](https://blog.eshani.ml/tools-and-courses-to-set_up-website-edit/ "Domain_name")
-<div>
+
 **Step 4.** 
-</div>
+
 Once the editing is completed using Bracket, I uploaded the website to [000webhost](https://www.000webhost.com/). For information on how to [click here](https://blog.eshani.ml/tools-and-courses-to-set_up-website-edit/ "Cname")
 
 When uploading to 000webhost, make sure to unzip the files.
