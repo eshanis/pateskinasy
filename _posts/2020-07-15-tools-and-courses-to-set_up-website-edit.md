@@ -1,5 +1,6 @@
 ---
 published: true
+excerpt: Read about tools and courses that help to set up your website
 ---
 When I started learning about how to set up websites on various platforms, HTML, Linux and started taking courses, I was extremely confused and didn't know where to start. I am completely new to the tech side of things and everyday was kind of a do over of me until I started getting a hang of things. I started writing about "how to" and "where to go" so I could track what I was doing and maybe help someone else in the same boat. This blog is a summary of things I found useful. 
 
