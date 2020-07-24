@@ -24,6 +24,7 @@ I used [Brackets](http://brackets.io/) to edit the files. When you open the file
 <div>
 -it lets me edit CSS files in the Index folder using the quck edit option when you right click on the down arrow.
 </div>
+<br>
 ![quick edit]({{site.baseurl}}/assets/images/typerite_quickedit.PNG)
 
 **Step 3.** 
