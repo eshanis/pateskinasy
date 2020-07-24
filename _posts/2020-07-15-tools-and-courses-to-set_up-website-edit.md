@@ -30,7 +30,7 @@ There are many webserver options. The ones I explored and used were aws, github 
 
 ![]({{site.baseurl}}/assets/images/freenom_cname.PNG)
 
- To create my githubpages blog website, I used a **tool** called [prose.io](https://prose.io/#eshanis)
+ To create and edit my githubpages blog website, I used a **tool** called [prose.io](https://prose.io/#eshanis)
 
     NOTE: One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
@@ -60,7 +60,8 @@ There are many webserver options. The ones I explored and used were aws, github 
 2. Domain name registration: freenom.com
 
 3. website editors:Prose (for github), Sublime text, [Bracket](http://brackets.io/) (shows realtime changes via live
-   preview)
+   preview, see picture below)
+   
 ![]({{site.baseurl}}/assets/images/brackets_edit.PNG)
 
   For more details about the cheat sheet click [here](https://blog.eshani.ml/building-a-website/)
