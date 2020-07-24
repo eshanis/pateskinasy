@@ -5,9 +5,9 @@ excerpt: Exploring the Typewrite template
 ---
 Hello!
 When I started, I was so overwhelmed with all the options out there and trying to figure out how to host a website without spending a ton of money, it took me awhile to get here. Hope this blog makes it easier for you to build your website. This blog is a step by step guide to building a website using [typerite template](https://www.styleshout.com/free-templates/typerite/).
-<div>
+
 **Step 1.** 
-</div>  
+  
 I downloaded the files from [typerite](https://www.styleshout.com/free-templates/typerite/) onto my computer as a zipped folder. See image below for the files included in the zipped folder.
 <br>
 ![download as zipped files]({{site.baseurl}}/assets/images/typerite_downloaded_files_typerite_mycomp.PNG)
