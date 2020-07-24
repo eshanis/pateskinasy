@@ -1,5 +1,6 @@
 ---
 published: true
+excerpt: Welcome to my blog
 ---
 
 
