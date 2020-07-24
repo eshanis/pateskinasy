@@ -15,9 +15,9 @@ I downloaded the files from [typerite](https://www.styleshout.com/free-templates
 **Step 2.** 
  
 I used [Brackets](http://brackets.io/) to edit the files. When you open the files using Brackets, you need to unzip the folder. I used Brackets for couple of different reasons
-<br>
 <div>
 -it gives me a live preview of the changes I make right next to the editor. To got to live preview, click on the drop down menu for file and select "live preview". 
+<br>
 </div>
 ![live preview]({{site.baseurl}}/assets/images/typerite_bracket_live_preview.PNG)
 <br>
