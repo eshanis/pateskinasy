@@ -7,10 +7,9 @@ header:
   teaser: /assets/images/bio-photo.jpg
   image: /assets/images/estech.png
   overlay_image: /assets/images/estech.png
-
 ---
 
-## Sometimes you want to put links to others people's pages or pages within your own website.
+## To put links to other people's page or pages within your own website.
 For this, you use the "a" tags
 
 **1. If you want to link to my github page**
