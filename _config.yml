@@ -104,11 +104,12 @@ social:
     - "https://github.com/eshanis"
   # An array of links to social media profiles
 
+
 # Analytics
 analytics:
   provider: google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: UA-72566012-3
+    tracking_id: UA-72566012-4
     anonymize_ip: # true, false (default)
 
 
