@@ -7,7 +7,7 @@ When I started learning about how to set up websites on various platforms, HTML,
 
 **WEBHOSTING OPTIONS**
 
-There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options.
+There are many webserver options. The ones I explored and used were aws, github and 000webhost. I have written below my experiences in using these options.
 
 **a.**  [aws](https://aws.amazon.com/console/) - **Amazon Web Services** 
 <div>
