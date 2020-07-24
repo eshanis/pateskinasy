@@ -35,6 +35,7 @@ There are many webserver options. The ones I explored and used were aws, github 
     NOTE: One of the quirks of prose is sometimes you have to manually set published: true in the meta data section
 ![]({{site.baseurl}}/assets/images/prose_to_publish.PNG)
 
+<br>
 
 **c.**  **000webhost** 
 <div>  
@@ -49,7 +50,8 @@ There are many webserver options. The ones I explored and used were aws, github 
 ![]({{site.baseurl}}/assets/images/000webhost_domain.PNG)
 
 
-<br><br>
+<br>
+<br>
 **CHEAT SHEET**
 <br>
 <hr>
