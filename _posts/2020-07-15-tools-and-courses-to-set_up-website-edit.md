@@ -10,11 +10,14 @@ When I started learning about how to set up websites on various platforms, HTML,
 There are many webserver options. The ones I used were aws, github and 000webhost. I have written below my experiences in using these options.
 
 **a.**  [aws](https://aws.amazon.com/console/) - **Amazon Web Services** 
+<div>
         This involved many steps and I had to pay for this service after my free account for a year was used up.
         For details read my [blog](https://blog.eshani.ml/website-on-AWS/) 
-    
+</div>    
+
+**b.**  **Github** 
 <div>
-**b.**  **Github** is another webhosting option I explored because it did not require me to write complicated code.
+        This is another webhosting option I explored because it did not require me to write complicated code.
         I created the [github pages](https://blog.eshani.ml/) website as my tech blog on Github pages. You can find
         the code to my website [here](https://github.com/eshanis/eshanis.github.io). You can find details on how to
         set up [here](https://blog.eshani.ml/github-website/) I got my free domain on [freenom]
