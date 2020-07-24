@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##
+
 
 Hello! and welcome to my blog. This blog, and many others, are my notes and what helped me while I was learning new skills related to website design. I was drowning in information and had to carefully pick out the things that helped me in my journey to become a web developer. I am signed up for an [associates degree at Los Rios College](https://www.scc.losrios.edu/academics/programs-and-majors/computer-information-science) for Web Developer.
 
