@@ -8,6 +8,8 @@ header:
   image: /assets/images/estech.png
   overlay_image: /assets/images/estech.png
 toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 ## To put links to other people's page or pages within your own website.
