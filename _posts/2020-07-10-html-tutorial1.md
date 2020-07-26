@@ -88,7 +88,7 @@ examples:
   <h6>Subheading 6</h6>
 
 ```
-
+```
 <body>
   <h1>This is the Main Heading</h1>
   <h2>Subheading 2</h2>
@@ -97,7 +97,7 @@ examples:
   <h5>Subheading 5</h5>
   <h6>Subheading 6</h6>
 </body>
-
+```
 
 
 ### 4. Sections, articles, header and footer
