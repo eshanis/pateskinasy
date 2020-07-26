@@ -2,8 +2,8 @@
 published: true
 excerpt: Welcome to my blog
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_label: My Table of Contents
+toc_icon: cog
 ---
 
 
