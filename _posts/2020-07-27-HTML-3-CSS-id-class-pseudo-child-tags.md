@@ -78,6 +78,8 @@ h2 {
 
 ### section 2 - class with "." in css
 
+
+
 ### section 3 - selecting direct child tags
 
 ### section 4 - select all tags inside 
