@@ -16,9 +16,9 @@ How html content is displayed in dictated by CSS. CSS can be specified in three 
 Example:  
 
 ```
-<p color: red; font size: 20px; text-align: center;> This is a test </p>
+<p color: red; font size: 20px;> This is a test </p>
 ```
-<p>
+<p style="color: red; font-size: 20px;">
 This is a test
 </p>
 
