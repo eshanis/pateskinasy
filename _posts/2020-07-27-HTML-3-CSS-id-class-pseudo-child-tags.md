@@ -15,7 +15,7 @@ How html content is displayed in dictated by CSS. This is made up of the selecto
 
 Example:  
 
-```
+```html
 <p color: red; font size: 20px;> This is a test </p>
 ```
 <p style="color: red; font-size: 20px;">
