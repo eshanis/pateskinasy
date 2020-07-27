@@ -25,7 +25,8 @@ This is a test
 
 ### Section 1 - ID tag with # in css
 
-```
+This is between the <head></head> tags 
+```css
 <title>CSS Rule</title>
 <style>
 #para1 {
@@ -39,7 +40,10 @@ h2 {
   text-align: center;
 }
 </style>
+```
+This is between the <body></body> tags 
 
+```html
 <body>
 <h2> CSS Rules</h2>
 <h3>Subheading 1</h3>
