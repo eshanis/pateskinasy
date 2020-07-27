@@ -1,0 +1,65 @@
+---
+published: true
+excerpt: HTML tutorial 3
+toc: true
+toc_label: My Table of Contents
+toc_icon: cog
+---
+
+
+### Section 1 - ID tag with # in css
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CSS Rule</title>
+<style>
+p {
+  color: red;
+  font-size: 20px;
+}
+
+h1 {
+  color: blue;
+  font-size: 36px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<h1> CSS Rules</h1>
+<h2>Subheading 1</h2>
+<p>How html content is displayed in dictated by CSS. In this case the sytle is specified in the head between the styles tags. The selector is the p or h1, the property, color, font size and the valu are specified within the curly brackets </p>
+<h2>Subheading 2</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est maxime aperiam blanditiis reprehenderit voluptatem quia quas nesciunt amet atque temporibus quod harum sequi voluptate consequatur tenetur perferendis, cum ad! Eos.</p>
+</body>
+</html>
+```
+
+
+### section 2 - class with "." in css
+
+### section 3 - selecting direct child tags
+
+### section 4 - select all tags inside 
+
+### section 5 - pseudo selectors (on hover)
+```
+a:link, a:visited {
+  text-decoration: none;
+  background-color: green;
+  border: 1px solid blue;
+  color: black;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 1px;
+}
+
+a:hover, a:active {
+  background-color: red;
+  color: purple;
+}
+```
