@@ -7,7 +7,7 @@ toc_icon: cog
 ---
 How html content is displayed in dictated by CSS. This can be done in three ways
 **1.** As a separate CSS folder and then referenced in the html using "a href". 
-**2.** Style is specified in the head between the styles tags. See example below
+**2.** Style is specified in the head between the styles tags. See example Section 1 below
 **3.** Within the opening tag of the selector.
        Example:
 ```
