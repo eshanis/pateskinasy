@@ -5,7 +5,7 @@ toc: true
 toc_label: My Table of Contents
 toc_icon: cog
 ---
-How html content is displayed in dictated by CSS. CSS can be specified in three ways
+How html content is displayed in dictated by CSS. This is made up of the selector, example p, and the declaration which is made of the property and value. The property and value are separated by and colon and each declaration must be separated by a semi-colon. CSS uses curly brackets and can be specified in three ways
 
 **1.** As a separate CSS folder and then referenced in the html using "a href". 
 
