@@ -26,10 +26,6 @@ This is a test
 ### Section 1 - ID tag with # in css
 
 ```
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
 <title>CSS Rule</title>
 <style>
 #para1 {
@@ -43,7 +39,7 @@ h1 {
   text-align: center;
 }
 </style>
-</head>
+
 <body>
 <h1> CSS Rules</h1>
 <h2>Subheading 1</h2>
@@ -53,10 +49,7 @@ h1 {
 </body>
 </html>
 ```
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
+
 <title>CSS Rule</title>
 <style>
 #para1 {
@@ -70,7 +63,7 @@ h1 {
   text-align: center;
 }
 </style>
-</head>
+
 <body>
 <h1> CSS Rules</h1>
 <h2>Subheading 1</h2>
