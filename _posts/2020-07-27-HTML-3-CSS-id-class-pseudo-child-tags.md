@@ -71,7 +71,7 @@ h1 {
 <h2>Subheading 2</h2>
 <p>The style must be specified in the head, between the curly brakets. The property and value are separated by and colon and each declaration must be separated by a semi-colon. </p>
 </body>
-</html>
+
 
 ### section 2 - class with "." in css
 
