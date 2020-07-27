@@ -13,7 +13,7 @@ How html content is displayed in dictated by CSS. CSS can be specified in three 
 
 **3.** Within the opening tag of the selector.
 
-       Example:
+Example:       
 ```
 <p color: red; font size: 20px; text-align: center;> This is a test </p>
 ```
