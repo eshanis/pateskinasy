@@ -33,7 +33,7 @@ This is a test
   font-size: 20px;
 }
 
-h1 {
+h2 {
   color: black;
   font-size: 36px;
   text-align: center;
@@ -41,10 +41,10 @@ h1 {
 </style>
 
 <body>
-<h1> CSS Rules</h1>
-<h2>Subheading 1</h2>
+<h2> CSS Rules</h2>
+<h3>Subheading 1</h3>
 <p id="para1">How html content is displayed in dictated by CSS. In this case the style is specified in the head between the styles tags. The selector is the p or h1, the property, color, font size and the value are specified within the curly brackets. </p>
-<h2>Subheading 2</h2>
+<h3>Subheading 2</h3>
 <p>The style must be specified in the head, between the curly brakets. The property and value are separated by and colon and each declaration must be separated by a semi-colon. </p>
 </body>
 </html>
@@ -57,17 +57,17 @@ h1 {
   font-size: 20px;
 }
 
-h1 {
+h2 {
   color: black;
   font-size: 36px;
   text-align: center;
 }
 </style>
 
-<h1> CSS Rules</h1>
-<h2>Subheading 1</h2>
+<h2> CSS Rules</h2>
+<h3>Subheading 1</h3>
 <p id="para1">How html content is displayed in dictated by CSS. In this case the style is specified in the head between the styles tags. The selector is the p or h1, the property, color, font size and the value are specified within the curly brackets. </p>
-<h2>Subheading 2</h2>
+<h3>Subheading 2</h3>
 <p>The style must be specified in the head, between the curly brakets. The property and value are separated by and colon and each declaration must be separated by a semi-colon. </p>
 
 
