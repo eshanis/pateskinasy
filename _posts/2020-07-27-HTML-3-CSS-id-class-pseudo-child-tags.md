@@ -25,7 +25,7 @@ This is a test
 
 ### Section 1 - ID tag with # in css
 
-```
+```css
 <title>CSS Rule</title>
 <style>
 #para1 {
