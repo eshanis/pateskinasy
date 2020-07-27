@@ -5,10 +5,14 @@ toc: true
 toc_label: My Table of Contents
 toc_icon: cog
 ---
-How html content is displayed in dictated by CSS. This can be done in three ways
+How html content is displayed in dictated by CSS. CSS can be specified in three ways
+
 **1.** As a separate CSS folder and then referenced in the html using "a href". 
+
 **2.** Style is specified in the head between the styles tags. See example Section 1 below
+
 **3.** Within the opening tag of the selector.
+
        Example:
 ```
 <p color: red; font size: 20px; text-align: center;> This is a test </p>
