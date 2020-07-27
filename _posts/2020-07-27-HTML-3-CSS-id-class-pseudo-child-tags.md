@@ -41,7 +41,7 @@ h2 {
 }
 </style>
 ```
-This is between the <body></body> tags 
+The content is between the <body></body> tags 
 
 ```html
 <body>
