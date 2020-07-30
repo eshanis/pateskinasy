@@ -51,7 +51,7 @@ The content is between the <body></body> tags
 <h3>Subheading 2</h3>
 <p>The property and value are separated by and colon and each declaration must be separated by a semi-colon. </p>
 </body>
-</html>
+
 ```
 
 <title>CSS Rule</title>
