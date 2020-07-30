@@ -9,11 +9,10 @@ How html content is displayed in dictated by CSS. This is made up of the selecto
 
 **1.** As a separate CSS folder and then referenced in the html using "a href". 
 
-**2.** Style is specified in the head between the styles tags. See example Section 1 below
+**2.** Style is specified in the head between the styles tags. See Example Section 1 below
 
-**3.** Within the opening tag of the selector.
+**3.** Within the opening tag of the selector. Emaple below
 
-Example:  
 
 ```html
 <p color: red; font size: 20px;> This is a test </p>
