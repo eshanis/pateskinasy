@@ -25,4 +25,9 @@ This is using .notice--danger class
 <p  class="notice--danger">  This is using .notice--danger class
  </p>
 ```
+- In case the blog write up isn't published by default, set the meta info on the blog page:
+
+```
+puslished: true
+```
 
